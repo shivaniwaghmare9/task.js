@@ -1,23 +1,24 @@
 
-#products {
+
+#products{
   float: left;
   width: 60%;
 }
-
 #cart {
   float: right;
   width: 30%;
 }
-
 .product {
   border: 1px solid #ccc;
   padding: 10px;
   margin-bottom: 10px;
 }
-
 .cart-item {
   border: 1px solid #ccc;
   padding: 10px;
   margin-bottom: 10px;
 }
+
+ 
+
 
